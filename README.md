@@ -3,4 +3,4 @@ Categorical Semantics of Intuitionistic Multiplicative Linear Logic written in I
 
 These files constitute the project whose main goal was to formalize the Categorical Semantics of Intuitionistic Multiplicative Linear Logic (IMLL). It consists 
 of step-by-step encoding of the notion of a Symmetric Monoidal Closed Category with a further verification of IMLL proof rules. 
-The main feature of Isablle/HOL utilized here was "locale" environment which suit perfectly for developing algebraic theories.
+The main feature of Isablle/HOL utilized here was "locale" environment which suits perfectly for developing algebraic theories.
